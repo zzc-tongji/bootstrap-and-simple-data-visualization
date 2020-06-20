@@ -2,7 +2,7 @@
 
 ### Demo
 
-https://zzc-tongji.github.io/bootstrap-and-simple-data-visualization/
+https://zzc-tongji.github.io/bootstrap-and-simple-data-visualization/index.html
 
 ### Data
 
